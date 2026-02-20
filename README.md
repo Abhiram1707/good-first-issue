@@ -13,20 +13,11 @@ This repository contains my beginner-friendly open source contributions where I 
 - Git & GitHub  
 - Debugging & Issue Tracking  
 
-## 📂 Contributions
+## 📂 Contribution
 
 ### 🔹 Fix #1 — [Project Name]
 - **Issue:** Brief bug description  
 - **Fix:** Short explanation of your change  
-- **PR:** Add your pull request link  
-
-### 🔹 Fix #2 — [Project Name]
-- **Issue:**  
-- **Fix:**  
-- **PR:**  
-
-## 📫 Contact
-- GitHub: https://github.com/your-username  
-- LinkedIn: (your link)
+- **PR:** Add your pull request link
 
 ⭐ If you like this repo, give it a star!# good-first-issue
